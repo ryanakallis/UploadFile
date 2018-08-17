@@ -1,0 +1,9 @@
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\bin\Debug\LocalTestDB.dacpac
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\bin\Debug\LocalTestDB.dll
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\bin\Debug\LocalTestDB.pdb
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\obj\Debug\Model.xml
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\obj\Debug\refactor.xml
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\obj\Debug\postdeploy.sql
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\obj\Debug\predeploy.sql
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\obj\Debug\LocalTestDB.dll
+C:\source\Experimental\UploadFile\UploadFile\LocalTestDB\obj\Debug\LocalTestDB.pdb

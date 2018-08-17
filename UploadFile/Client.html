@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Client simulation</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <!-- Simulate file upload -->
+    <form action="uploadfile" method="post" enctype="multipart/form-data">
+        upload:
+        <input type="file" name="fileToUpload" id="fileToUpload" />
+        <input type="submit" value="Upload File" name="submit" />
+    </form>
+
+    <!-- Simulate Get Doc -->
+    <form action="uploadfile" method="get" enctype="text/plain">
+        upload:
+        <input type="text" value="15" name="DocumentId" />
+        <input type="submit" value="Upload File" name="submit" />
+    </form>
+</body>
+</html>
